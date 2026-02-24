@@ -1,4 +1,6 @@
 <h1 align="center">Ola! Eu sou a Vic!🐆</h1>
+<p>Victoria Santinni Lima Rosa, desenvolvedora Full-stack graduada pela Programadores do Amanhã. Com uma base sólida em engenharia de software e experiência em projetos colaborativos, foco em criar soluções que unem lógica eficiente a interfaces intuitivas.</p>
+<p>Minha trajetória profissional me permitiu desenvolver uma visão estratégica voltada para resultados e segurança. Hoje, aplico essa experiência na construção de aplicações robustas, com especial interesse em arquitetura de banco de dados e segurança cibernética.</p>
 
 ###
 
