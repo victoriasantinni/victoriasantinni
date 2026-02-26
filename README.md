@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victoriasantinni&theme=radical)](https://git.io/streak-stats)
-![Metrics](https://metrics.lecoq.io/victoriasantinni?template=classic&base.header=0&base.activity=0&base.community=0&repositories=1&metadata=1)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victoriasantinni&theme=radical)](https://git.io/streak-stats)
+  ![Metrics](https://metrics.lecoq.io/victoriasantinni?template=classic&base.header=0&base.activity=0&base.community=0&repositories=1&metadata=1)
 </div>
 ###
