@@ -11,9 +11,6 @@
   <a href="https://www.instagram.com/victoriasantinni/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victoriasantinni&theme=radical)](https://git.io/streak-stats)
-  
 </div>
 
 ###
@@ -39,7 +36,14 @@
 ###
 
 <div align="center">
+  ## 📊 Estatísticas do GitHub
   
-  
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=victoriasantinni&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=victoriasantinni&layout=compact&theme=radical" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victoriasantinni&theme=radical" />
 </div>
+
 ###
