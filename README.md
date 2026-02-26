@@ -35,6 +35,5 @@
 
 ###
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=victoriasantinni&show_icons=true&theme=radical)
-
+![Estatísticas da Victoria](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=victoriasantinni&show_icons=true&theme=radical)
 ###
